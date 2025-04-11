@@ -54,6 +54,7 @@ The final model achieved reasonable accuracy in predicting property prices based
 
 ## 🚀 Future Improvements
 
+- GUI for prediction.
 - Add more features (e.g., proximity to amenities).
 - Deploy the model using a web app (e.g., Streamlit or Flask).
 - Automate scraping for real-time updates.
